@@ -1,2 +1,2 @@
-# Web2024
+# My First Website Project
 My First Functional Website with Database
